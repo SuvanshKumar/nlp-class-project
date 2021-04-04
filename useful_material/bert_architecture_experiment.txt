@@ -1,0 +1,5 @@
+https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/
+
+https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_natural-language-processing-applications/finetuning-bert.ipynb
+
+https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_natural-language-processing-applications/natural-language-inference-attention.ipynb
