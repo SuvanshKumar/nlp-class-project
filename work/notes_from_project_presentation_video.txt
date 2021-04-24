@@ -1,5 +1,6 @@
 
 Phase A - tweet annotation (submit by April 16)
+----------------------------------------------------------------------------------------------------
 
 200 annotations per student (1000 per team), (TA will later (on April 18) give 1000 more tweets, so we will have 2000 annotated tweets to work with)
 
@@ -15,7 +16,9 @@ Total points: 20
 If our score is above a threshold of 70%, we will get full 20 points, otherwise zero points (according to TA, but professor says we might get a partial credit even if below the threshold).
 (Unclear on whether this may change, and whether 100% will still be needed to get 100% marks)
 
+
 Phase B - Building stance detection systems using various neural architectures
+----------------------------------------------------------------------------------------------------
 
 Data set of 2000 tweets, we shuffle and split among the training set and testing validation set, using which we train and evaluate our systems. 
 
@@ -24,7 +27,9 @@ Data set of 2000 tweets, we shuffle and split among the training set and testing
 --correction--
 We need the SAME training and validation splitting FOR THE WHOLE TEAM.
 
+
 Phase C - Evaluating stance detection systems on test data (April 29 to May 1)
+----------------------------------------------------------------------------------------------------
 
 Each team picks one of the 4 (or 5?) systems that we have made (based on which gives better accuracy / recall / precision / faster, etc. (most likely accuracy only)).
 
